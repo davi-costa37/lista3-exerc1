@@ -17,3 +17,6 @@ Resultado final: $1 + 1 + 1 = 3$.
 🛠️ Requisitos e Tecnologias
 Linguagem: Java (JDK 8 ou superior)
 Conceito Aplicado: Recursividade e Estrutura de Decisão.
+
+📄 Licença
+Este projeto está sob a licença MIT.
